@@ -1,6 +1,6 @@
-### miniGPT 
+## miniGPT 
 
-A PyTorch re-implementation of GPT, both training and inference. Currently in built. 
+A PyTorch re-implementation of GPT, both training and inference.  
 
 ### How GPT Works: Brick-by-Brick
 
@@ -18,3 +18,7 @@ A PyTorch re-implementation of GPT, both training and inference. Currently in bu
 
 #### Output 
 ![](https://github.com/sreedeepEK/miniGPT/blob/0a8e825ea3b14e651ac5680e7299660c9712e8ba/output.png)
+
+### License 
+
+This project is licensed under the MIT License.
